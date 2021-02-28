@@ -13,7 +13,7 @@ A2\
 A3
 
 a)\
-
+<img src="https://render.githubusercontent.com/render/math?math=$\Pi_{ID\_bureau,\ nom,\ ville,\ addresse,\ superficie}(\sigma_{date\ =\ 2}$ ˄ $_{mois\ =\ 3}$ ˄ $_{année\ =\ 2020}$ ˄ $_{ville\ =\ ottawa}$ ˄ $_{toujours\_dispo\ =\ true}(disponibilité \bowtie bureau))$">
 $\Pi_{ID\_bureau,\ nom,\ ville,\ addresse,\ superficie}(\sigma_{date\ =\ 2}$ ˄ $_{mois\ =\ 3}$ ˄ $_{année\ =\ 2020}$ ˄ $_{ville\ =\ ottawa}$ ˄ $_{toujours\_dispo\ =\ true}(disponibilité \bowtie bureau))$
 
 
